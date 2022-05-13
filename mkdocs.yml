@@ -1,0 +1,8 @@
+site_name: IE自学指南
+
+repo_name: ie-self-learning
+repo_url: https://github.com/ceclin/ie-self-learning
+
+theme:
+  name: material
+  language: zh
