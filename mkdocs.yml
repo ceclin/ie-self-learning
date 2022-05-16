@@ -6,6 +6,7 @@ site_description: >-
 
 repo_name: ie-self-learning
 repo_url: https://github.com/ceclin/ie-self-learning
+edit_uri: edit/main/docs/
 
 theme:
   name: material
