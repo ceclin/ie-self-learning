@@ -12,6 +12,9 @@ theme:
   name: material
   language: zh
 
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
 
 nav:
   - 前言: "index.md"
@@ -38,7 +41,7 @@ nav:
       - 优化算法设计: "专业类/优化算法设计.md"
       - 可靠性与维修管理: "专业类/可靠性与维修管理.md"
       - 物流与供应链管理: "专业类/物流与供应链/物流与供应链管理.md"
-      - 质量管理学: "专业类/质量管理.md"
+      - 质量管理: "专业类/质量管理.md"
       - 服务管理: "专业类/服务管理.md"
       - 大数据分析: "专业类/大数据分析.md"
   - 经验分享:
